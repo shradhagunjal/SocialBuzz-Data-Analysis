@@ -1,6 +1,8 @@
 # Social Buzz Data Analytics and Visualization Project
 ![ACN_BIG D (3)](https://github.com/user-attachments/assets/b2d99a32-c8bb-4b75-a619-d59a74d92920)
 
+#Tableau link: https://public.tableau.com/views/SocialBuzz_17210374768710/SocialBuzzDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project Overview
 This project was completed as part of the free Accenture Data Analytics and Visualization program offered by Forage. The objective of this project was to analyze and visualize data from Social Buzz, a rapidly growing social media platform, to provide actionable insights supporting their upcoming IPO.
 
