@@ -1,3 +1,2 @@
 # Social Buzz Data Analytics and Visualization Project
-
-![ACN_BIG D (2)](https://github.com/user-attachments/assets/252361b2-233a-4f0e-b918-59ba1338d500)
+![ACN_BIG D (3)](https://github.com/user-attachments/assets/b2d99a32-c8bb-4b75-a619-d59a74d92920)
